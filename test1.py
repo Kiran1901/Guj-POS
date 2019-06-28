@@ -92,7 +92,7 @@ class tagger(search):
             if (rv.search(str(self.word_list[i])) and self.tag_list[i] == "NaN"):
                 self.tag_list[i]='verb'
 
-            
+
         #return self.tag_list,self.word_list
 
     def countNaNs(self):                                            #counts NaN values in sentence

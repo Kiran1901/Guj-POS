@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/adverb.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/comparative.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/conjuction.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/extra_word.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/input.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/negation.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/number.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/preposition.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/pronoun.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/questionnaire.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/stopper.txt" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/verb.txt" charset="UTF-16" />
+  </component>
 </project>
